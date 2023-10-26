@@ -1,4 +1,4 @@
-##Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thaksin Khasaraj Student College of Computing 
+##Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey Guys!, I'm Thaksin Khasaraj I'm a Sotfware Engneer
 =====================================================================================================================================================================  
 * 🌍  I'm based in Bangkok, Thailand 
 * 🧠  I'm learning Flutter | Vue.js | React
